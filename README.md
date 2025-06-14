@@ -59,15 +59,3 @@ User
              └─> Record to Hedera (HCS)
 
 
-
-## References
-
-1.https://www.tripadvisor.com/ShowTopic-g1-i12105-k14549362-Reviews_Keep_Getting_Deleted-Tripadvisor_Support.html
-
-2.https://www.insidehook.com/travel/tripadvisor-deleting-negative-reviews
-
-3.https://onemileatatime.com/news/tripadvisor-deleting-negative-reviews/
-
-4.The Guardian, “Concerned about your data use?” 31 Oct 2024
-
-
