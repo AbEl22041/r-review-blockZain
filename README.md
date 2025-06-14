@@ -1,26 +1,3 @@
-# R-Review (IReview)
-
-## Context
-
-People's choices are increasingly guided by company reviews. The credibility and transparency of these reviews are crucial. However, current review systems face key issues:
-
-## The Problem
-
-- **Regulators & platforms are cracking down on fake reviews**, eroding trust and revenues. [1][2][3]  
-- **Digital sobriety is rising** — every unnecessary kilobyte is scrutinized. Even a single day of messaging has measurable carbon impact. [4]
-
-## Our Solution
-
-| What we fix             | How we fix it                                                                 |
-|-------------------------|-------------------------------------------------------------------------------|
-| Fake or off-site reviews| Daily rotating QR code + server-side hash check → “Verified on-site” badge   |
-| Oversized media traffic | Whisper + mini-LM extract *sentiment (–5…+5)* & keywords → 99.8% smaller payload |
-| Tampering & data rot    | Immutable timestamp on Hedera Consensus Service ($0.0001/tx, carbon-negative) |
-
-> _“Scan → Talk → Publish … diners spend < 20s; the restaurant earns durable, trustworthy feedback.”_
-
----
-
 ## Setup Instructions
 
 ### 1. Backend (Django)
